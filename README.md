@@ -14,3 +14,4 @@ Daily currency prices from 4th January 1999 will be sourced from Quandl (https:/
 ## Deliverables 
 1.	R code
 2.	A paper explaining the problem, data, solution approach and any findings.
+3.	A slide deck.
